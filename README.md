@@ -22,7 +22,7 @@ A simplified port scanner written in Python that scans a target IP address for o
    cd mini-nmap
 2. Run the script:
     ```bash
-   python scanner.py
+   vulnerability_scanner.py
 
 ## 🖥 Example output
 Scanning localhost from port 20 to 100...
