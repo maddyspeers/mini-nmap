@@ -14,13 +14,9 @@ A simplified port scanner written in Python that scans a target IP address for o
 - Python 3.x
 - `socket` module (required)
 
-## 📦 Installation
+## ▶️ How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/maddyspeers/mini-nmap.git
-   cd mini-nmap
-2. Run the script:
+1. Run the script:
     ```bash
    vulnerability_scanner.py
 
